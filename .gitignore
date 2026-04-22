@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.vscode/
+data/pdfs/*.pdf
+data/textos/*.txt
+outputs/
+*.egg-info/
+dist/
+build/
+.env
