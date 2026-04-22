@@ -13,8 +13,7 @@
 
 ## Vídeo de Apresentação
 
-> 🎥 [Assista à apresentação no Loom](https://www.loom.com/share/XXXXXXXXXXXXXXXX)  
-> *(link será adicionado em breve)*
+> 🎥 [Assista à apresentação no Loom](https://www.loom.com/share/e271e28fc45a4da8b88d38c6b40137b0)  
 
 ---
 
